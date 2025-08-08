@@ -115,9 +115,8 @@ economy      44
 
 ## 👨‍💻 Author
 
-Aman Takhar  
-Master of IT (Data Science & AI) | Data Engineer | PySpark Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/amantakhar) | [GitHub](https://github.com/amantakhar)
+JJ Takhar  
+
 
 ---
 
